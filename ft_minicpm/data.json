@@ -1,0 +1,44 @@
+[
+    {
+        "id": "chartx_all_len",
+        "image": "chartx_all_len.png",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\ndescribe this image in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "This image is a pink chart."
+            }
+        ]
+    },
+    {
+        "id": "docaxess_yolo_all_lang_all_len",
+        "image": "docaxess_yolo_all_lang_all_len.png",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\ndescribe this image in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "This image is a pink chart with boxplots."
+            }
+        ]
+    },
+    {
+        "id": "max_len_67_BLEU_docaxess",
+        "image": "max_len_67_BLEU_docaxess.png",
+        "conversations": [
+            {
+                "role": "user",
+                "content": "<image>\ndescribe this image in detail"
+            },
+            {
+                "role": "assistant",
+                "content": "This image is a chart with 2 curves."
+            }
+        ]
+    }
+]
